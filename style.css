@@ -1,0 +1,9 @@
+nav {
+    background-color: black;
+    color: white;
+}
+
+.input-field>label {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
