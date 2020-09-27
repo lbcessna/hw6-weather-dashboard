@@ -7,3 +7,9 @@ nav {
     font-size: 1.5rem;
     font-weight: bold;
 }
+
+.material-icons {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
